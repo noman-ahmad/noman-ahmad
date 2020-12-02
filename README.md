@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Noman Ahmad</h1>
-<h3 align="center">A Lifelong Problem Solver</h3>
 
 - 🌱 I’m currently learning **Advanced Algorithm Design**
 
