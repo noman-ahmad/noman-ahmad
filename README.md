@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noman Ahmad</h1>
 <h3 align="center">A Senior Computer Science Student at Hunter College</h3>
 
-- 🌱 I’m currently learning **Advanced Algorithms**
+- 🌱 I’m currently learning **iOS Development**
 
 - 📫 How to reach me **nahmad199916@gmail.com**
 
