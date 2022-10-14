@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Noman Ahmad</h1>
-<h3 align="center">A Recent CS Graduate</h3>
-
-- 🌱 I’m currently learning **iOS Development**
-
-- 📫 How to reach me **nahmad199916@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
