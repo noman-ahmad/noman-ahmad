@@ -39,7 +39,7 @@ Right now I'm a Senior Mobile Software Engineer at **[Club](https://club.com)**.
     <td>
       <b>Senior Mobile Software Engineer</b> · <a href="https://club.com">Club</a> · <a href="https://apps.apple.com/us/app/club-com/id6774236682">App Store</a><br>
       <sub>May 2026 – present</sub><br>
-      Took the React Native app from a bare shell to public iOS and Android launch in three months (30K+ new users, 4.8★), then built the native Swift and SwiftUI rewrite that holds the feed under 200 MB where the old app climbed to 2–3 GB.
+      Launched the React Native app on iOS and Android in three months. Now rebuilding it natively in Swift and SwiftUI.
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ Right now I'm a Senior Mobile Software Engineer at **[Club](https://club.com)**.
     <td>
       <b>Senior Software Engineer, Enterprise Integrations</b> · <a href="https://www.nttdata.com">NTT Data</a><br>
       <sub>Jun 2025 – May 2026</sub><br>
-      Built a headless UI automation framework with Playwright, engineered an Amazon RDS to Salesforce pipeline that moves thousands of records every night, and mentored five junior developers.
+      Enterprise integrations across Salesforce and AWS, plus UI automation with Playwright.
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Right now I'm a Senior Mobile Software Engineer at **[Club](https://club.com)**.
     <td>
       <b>Software Engineer II, Full Stack</b> · <a href="https://www.sunnova.com">Sunnova Energy</a> · <a href="https://apps.apple.com/us/app/sunnova/id1604631393">App Store</a><br>
       <sub>Apr 2022 – May 2025</sub><br>
-      An offline-first rewrite cut API calls by 43% for 400K+ users. Shipped Apple Pay and Google Pay ($250K+ a month) and push notifications (55K+ a month), and rebuilt auth for 1M+ daily requests at 99.9% uptime.
+      React Native apps for 400K+ solar customers: offline-first rewrite, Apple Pay and Google Pay, push notifications.
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Right now I'm a Senior Mobile Software Engineer at **[Club](https://club.com)**.
     <td>
       <b>iOS Software Engineering Intern</b> · Potato TV<br>
       <sub>Jan – Apr 2022</sub><br>
-      My first production iOS work: a native share modal in SwiftUI, plus fixes for crashes caused by deprecated APIs across Xcode and SwiftUI upgrades.
+      My first production iOS work, in Swift and SwiftUI.
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Right now I'm a Senior Mobile Software Engineer at **[Club](https://club.com)**.
     <td>
       <b>B.S. Computer Science, Mathematics minor</b> · <a href="https://www.hunter.cuny.edu">CUNY Hunter College</a><br>
       <sub>2021 · Dean's List, Cum Laude</sub><br>
-      Spent two years as a teaching assistant for data structures, algorithms and intro programming.
+      Teaching assistant for data structures and algorithms.
     </td>
   </tr>
 </table>
